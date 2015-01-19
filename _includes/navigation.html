@@ -27,12 +27,35 @@
 						Contato <span class="caret"></span>
 					</a>
 					<ul class="dropdown-menu" role="menu">
-						<li class="dropdown-header">Social</li>
-						<li><a title="Github" href="https://github.com/{{ site.github_username }}">Github</a></li>
-						<li><a title="Twitter" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+						<li class="dropdown-header">
+							Social
+						</li>
+						<li>
+							<a title="Github" href="https://github.com/{{ site.github_username }}">
+								<span class="glyphicon glyphicon-qrcode"></span> Github
+							</a>
+						</li>
+						<li>
+							<a title="Twitter" href="https://twitter.com/{{ site.twitter_username }}">
+								<span class="glyphicon glyphicon-send"></span> Twitter
+							</a>
+						</li>
 						<li class="divider"></li>
-						<li class="dropdown-header">Pessoal</li>
-						<li><script type="text/javascript">messageme('Email');</script></li>
+						<li class="dropdown-header">
+							Pessoal
+						</li>
+						<li>
+							<script type="text/javascript">messageme('<span class="glyphicon glyphicon-inbox"></span> Email');</script>
+						</li>
+						<li class="divider"></li>
+						<li class="dropdown-header">
+							Automático
+						</li>
+						<li>
+							<a href="{{ '/feed.xml' | prepend: site.baseurl }}">
+								<span class="glyphicon glyphicon-signal"></span> Feed
+							</a>
+						</li>
 					</ul>
 				</li>
 			</ul>

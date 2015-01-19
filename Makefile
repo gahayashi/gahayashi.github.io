@@ -2,3 +2,6 @@
 
 serve:
 	jekyll "$@" --trace --watch
+
+clean:
+	rm -rf _site
