@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pseudônimos"
-date:   2015-01-19 01:01:00
+date:   2015-01-19 01:01:00 BRL
 categories: Aleatório
 ---
 

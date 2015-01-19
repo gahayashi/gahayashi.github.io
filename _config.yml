@@ -3,6 +3,7 @@ baseurl: ""
 url: "http://gahayashi.github.io"
 version: "0.1.0"
 permalink: /:categories/:title/
+timezone: "America/Sao_Paulo"
 
 # Blog metas
 title: Gabriele Hayashi
