@@ -6,8 +6,4 @@ permalink: /autor/
 public: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Gabriele Hayashi, a bem da verdade, é apenas um pseudônimo que eu escolhi para brincar na internet. Queria a liberdade de um pseudônimo, com a seriedade (ou não) de uma pessoa normal. Por isso escolhi dois nomes que dificilmente alguém teria, ao mesmo tempo, e tomei para mim.
