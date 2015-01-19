@@ -17,11 +17,11 @@ Montar seu próprio computador não sai mais barato! Sairia se você conseguisse
 
 Mesmo levando em consideração o gasto de comprar as peças no varejo, ainda assim o preço do mesmo computador sai mais barato, porque você tem um grande preço de montar o bagulho, mas você não vai aceitar as peças, então nem precisa pensar nisso.
 
-Quer um computador barato, aceite que você quer um computador barato e compre: ... ... ... um computador barato.
+Quer um computador barato? Aceite que você quer um computador barato! Compre: ... ... ... um computador barato.
 
-### É fácil... se você sabe computadores
+### É fácil... se você <q>sabe computadores</q>
 
-A verdade é que se eu te der todas as peças necessário para montar um computador, você consegue usar as mesmas habilidades de montar um quebra-cabeça para montar um computador. Qual é o problema então? Esse é um quebra-cabeças que você também tem que descobrir quais são as peças.
+A verdade é que se eu te der todas as peças necessárias para montar um computador, você consegue usar as mesmas habilidades de montar um quebra-cabeça para montar um computador. Qual é o problema então? Esse é um quebra-cabeças que você também tem que descobrir quais são as peças.
 
 Já vi muita gente argumentando na internet que montar um computador é super fácil... É fácil se você já sabe que peças você precisa para um computador. Eu tenho certeza que a maioria das pessoas não sabe o suficiente para conseguir pensar num conjunto de peças que iria funcionar corretamente.
 
@@ -33,13 +33,13 @@ Já comprei um monitor de 32... não recomendo!
 
 ### Computadores > Servidores
 
-Não vale a pena investir em 500 servidores para a sua casa. Você não vai usar! Invista em um único computador realmente bom e virtualize os seus testes.
+Eu acho, pessoalmente, que não vale a pena investir em 500 servidores para a sua casa (ou até mesmo só um). Você não vai usar! Minha dica: invista em um único computador realmente bom, instale os servidores que você quiser nele e virtualize o que precisar ser acessível de fora.
 
-Eu sei disso, porque eu já tive a minha fase de querer ter todos os servidores possíveis em casa para ficar brincando. Você vai se enjoar. Compra um computador foda e use Virtual Box para todas essas brincadeiras que você quer fazer.
+Eu acredito nisso porque eu já tive a minha fase de querer ter todos os servidores possíveis em casa para ficar brincando. Você vai se enjoar... Eu me enjoei de ter um monte de lata velha no meu quarto. Compra um computador foda e use Virtual Box para todas essas brincadeiras que você quer fazer.
 
 > Ahhh, mas eu quero montar um servidor de email e web e...
 
-Sério! Um computador para ficar rodando absolutamente nada, sem receber conexões, é um gasto desnecessário. Um bom computador, que você realmente use diretamente todos os dias, rodando uma VM para essas miudezas é mais do que suficiente.
+Eu acho que um computador para ficar rodando absolutamente nada, sem receber conexões, é um gasto desnecessário. Um bom computador, que você realmente use diretamente todos os dias, rodando uma VM para essas miudezas é mais do que suficiente.
 
 Uma coisa que eu noto para mim é que o que eu sinto falta, só tendo um laptop, é ter um computador fixo em casa. Um que não corra um risco tão absurdamente grande de ser roubado a qualquer hora na rua. Na realidade, um desktop em casa já funcionaria como o meu servidor para deixar os meus dados mais importantes. Esse é o único servidor que você precisa.
 

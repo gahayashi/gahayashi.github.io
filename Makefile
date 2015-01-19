@@ -1,7 +1,7 @@
 # Some common targets for my blog
 
-serve:
-	jekyll "$@" --trace --watch
+serve build:
+	jekyll "$@" --trace --watch --future
 
 clean:
 	rm -rf _site
