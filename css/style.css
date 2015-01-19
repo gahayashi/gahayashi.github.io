@@ -6,7 +6,7 @@ body {
 	/*margin-top: 60px;*/
 }
 
-.muted {
+.muted, .muted a {
 	color: silver;
 	font-style: italic;
 }
