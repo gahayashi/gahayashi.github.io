@@ -2,7 +2,7 @@
 baseurl: ""
 url: "http://gahayashi.github.io"
 version: "0.1.0"
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:title/
 
 # Blog metas
 title: Gabriele Hayashi
