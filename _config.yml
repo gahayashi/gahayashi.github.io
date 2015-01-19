@@ -18,3 +18,5 @@ github_username: gahayashi
 markdown: kramdown
 source: source
 destination: build
+layouts: _layouts
+data_source: _data
