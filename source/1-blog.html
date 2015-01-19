@@ -1,0 +1,34 @@
+---
+layout: base
+title: Blog
+permalink: /
+public: true
+---
+
+<div class="row">
+	<div class="col-md-6">
+		<div class="page-header">
+			<h2>Artigos Pessoais</h2>
+			<small>Porque perguntar não ofende e faz crescer.</small>
+		</div>
+
+		{% for post in site.posts %}
+			<div>{{ post.date | date_to_long_string }} &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+		{% endfor %}
+	</div>
+	<div class="col-md-6">
+		<div class="page-header">
+			<h2>Projetos</h2>
+			<small>Porque nunca se tem marketing demais para um bom produto</small>
+		</div>
+
+		<dl id="projects">
+			{% for project in site.data.projects %}
+				<dt>
+					<a href="{{ project.url }}">{{ project.name }}</a>
+				</dt>
+				<dd>{{ project.about }}</dd>
+			{% endfor %}
+		</dl>
+	</div>
+</div>

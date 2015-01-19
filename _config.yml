@@ -1,14 +1,20 @@
 # Site settings
+baseurl: ""
+url: "http://gahayashi.github.io"
+version: "0.1.0"
+permalink: /:year/:month/:day/:title/
+
+# Blog metas
 title: Gabriele Hayashi
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gahayashi.github.io" # the base hostname & protocol for your site
+author: Gabriele Hayashi
+email: gabriele.hayashi@gmail.com
+description: |
+  Um pseudo-filósofo, programador de meia-tigela e comediante nas horas vagas, que são todas as horas.
+
 twitter_username: gahayashi
-github_username:  gahayashi
+github_username: gahayashi
 
 # Build settings
 markdown: kramdown
+source: source
+destination: build
