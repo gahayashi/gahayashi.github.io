@@ -14,3 +14,9 @@ body {
 dl dd {
 	margin-left: 30px;
 }
+
+#panel-about .panel-heading {
+	text-align: center;
+	font-style: italic;
+	font-weight: bolder;
+}
