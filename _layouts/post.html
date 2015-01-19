@@ -6,7 +6,7 @@ layout: base
 	<div class="col-md-8">
 		<header class="page-header">
 			<h2>{{ page.title }}</h2>
-			<small>{{ page.date | date_to_long_string }} | {{ site.author }}</small>
+			<small>{{ page.date | date_to_long_string }} &middot; {{ site.author }}</small>
 		</header>
 
 		{{ content }}
@@ -20,5 +20,25 @@ layout: base
 		{% for related in site.related_posts %}
 			<div>{{ related.date | date_to_long_string }} &raquo; <a href="{{ related.url }}">{{ related.title }}</a></div>
 		{% endfor %}
+
+		<header class="page-header">
+			<h3>Ordem Cronológica</h3>
+			<small>Escrevi em momentos semelhantes, né?</small>
+		</header>
+
+		<dl>
+			{% if page.previous %}
+				<dt>Anterior</dt>
+				<dd>
+					<a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+				</dd>
+			{% endif %}
+			{% if page.next %}
+				<dt>Próximo</dt>
+				<dd>
+					<a href="{{ page.next.url }}">{{ page.next.title }}</a>
+				</dd>
+			{% endif %}
+		</dl>
 	</div>
 </div>
