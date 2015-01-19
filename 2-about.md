@@ -10,4 +10,4 @@ Gabriele Hayashi, a bem da verdade, é apenas um pseudônimo que eu escolhi para
 
 Pretendo colocar alguns códigos na internet e escrever bastantes coisas que eu ficaria com vergonha, ou preocupado, de associar diretamente ao meu nome, por isso este site. (tanto este blog, quanto o github) `oO`
 
-Peço desculpas se você achou que esse era o meu nome real, mas sou uma pessoa de verdade, então não fique tão #xatiado.
+Peço desculpas se você achou que esse era o meu nome real, mas sou uma pessoa de verdade, então não fique tão #xatiado. Se quiser falar comigo, pode me mandar um email. Está no meu github! `=P`
