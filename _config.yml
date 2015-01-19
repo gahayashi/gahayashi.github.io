@@ -16,7 +16,10 @@ github_username: gahayashi
 
 # Build settings
 markdown: kramdown
-source: source
-destination: build
-layouts: _layouts
-data_source: _data
+exclude:
+  - .gitignore
+  - .project
+  - .ruby-version
+  - Makefile
+  - README.md
+  - Gemfile
